@@ -1,0 +1,25 @@
+# Build output
+build/
+*.o
+*.elf
+*.bin
+*.hex
+*.map
+*.asm
+
+# Backup files
+*.bak
+*~
+
+# IDE files
+.vscode/
+*.code-workspace
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Debug artifacts
+videos/
+frames/
+*.mp4
